@@ -1,0 +1,44 @@
+<svg id="ethereum" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.733" height="28.877" viewBox="0 0 17.733 28.877">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_5" data-name="Path 5" d="M720.6,306.4h17.726v9.269H720.6Z" transform="translate(-720.6 -306.4)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_7" data-name="Path 7" d="M720.6,0h8.865V19.946H720.6Z" transform="translate(-720.6)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_9" data-name="Path 9" d="M975,0h8.865V19.946H975Z" transform="translate(-975)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_11" data-name="Path 11" d="M720.6,470.3h8.865v12.489H720.6Z" transform="translate(-720.6 -470.3)"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_13" data-name="Path 13" d="M975,470.3h8.868v12.489H975Z" transform="translate(-975 -470.3)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(0 10.677)" opacity="0.6">
+    <g id="Group_5" data-name="Group 5" transform="translate(0)" clip-path="url(#clip-path)">
+      <path id="Path_4" data-name="Path 4" d="M729.465,306.4l-8.865,4.032,8.865,5.237,8.862-5.237Z" transform="translate(-720.6 -306.4)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_8" data-name="Group 8" opacity="0.45">
+    <g id="Group_7" data-name="Group 7" transform="translate(0)" clip-path="url(#clip-path-2)">
+      <path id="Path_6" data-name="Path 6" d="M720.6,14.709l8.865,5.237V0Z" transform="translate(-720.6)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_10" data-name="Group 10" transform="translate(8.865)" opacity="0.8">
+    <g id="Group_9" data-name="Group 9" transform="translate(0)" clip-path="url(#clip-path-3)">
+      <path id="Path_8" data-name="Path 8" d="M975,0V19.946l8.862-5.237Z" transform="translate(-975)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_12" data-name="Group 12" transform="translate(0 16.388)" opacity="0.45">
+    <g id="Group_11" data-name="Group 11" transform="translate(0)" clip-path="url(#clip-path-4)">
+      <path id="Path_10" data-name="Path 10" d="M720.6,470.3l8.865,12.489v-7.252Z" transform="translate(-720.6 -470.3)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_14" data-name="Group 14" transform="translate(8.865 16.388)" opacity="0.8">
+    <g id="Group_13" data-name="Group 13" transform="translate(0)" clip-path="url(#clip-path-5)">
+      <path id="Path_12" data-name="Path 12" d="M975,475.537v7.252l8.868-12.489Z" transform="translate(-975 -470.3)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
